@@ -1,11 +1,11 @@
 {
-    "name": "quotations",
-    "short_name": "quotations",
-    "start_url": "",
+    "name": "QChallan",
+    "short_name": "QChallan",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "QChallan - Craft Quotations, Challans in 10 Secs!",
     "orientation": "portrait",
     "prefer_related_applications": false,
     "icons": [
